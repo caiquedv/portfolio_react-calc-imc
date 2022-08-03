@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio_react-calc-imc/static/css/main.a12418e8.css",
+    "main.js": "/portfolio_react-calc-imc/static/js/main.d0ae4c83.js",
+    "static/js/787.10a56187.chunk.js": "/portfolio_react-calc-imc/static/js/787.10a56187.chunk.js",
+    "static/media/powered.png": "/portfolio_react-calc-imc/static/media/powered.31688c4f015d2f42e203.png",
+    "index.html": "/portfolio_react-calc-imc/index.html",
+    "main.a12418e8.css.map": "/portfolio_react-calc-imc/static/css/main.a12418e8.css.map",
+    "main.d0ae4c83.js.map": "/portfolio_react-calc-imc/static/js/main.d0ae4c83.js.map",
+    "787.10a56187.chunk.js.map": "/portfolio_react-calc-imc/static/js/787.10a56187.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12418e8.css",
+    "static/js/main.d0ae4c83.js"
+  ]
+}
