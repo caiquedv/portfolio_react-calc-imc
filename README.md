@@ -9,3 +9,6 @@ Projeto desenvolvido durante o curso [B7Web](https://www.b7web.com.br).
 
 ### Para rodar
 - `npm start`
+
+### Deploy
+- [Calcule seu IMC](https://caiquedv.github.io/portfolio_react-calc-imc)
