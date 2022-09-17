@@ -19,7 +19,7 @@
 
 <h2>:dvd: Iniciar</h2>
 
-<code>npm run dev</code>
+<code>npm start</code>
 
 <h2>:computer: Projeto</h2>
 
